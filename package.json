@@ -1,0 +1,23 @@
+{
+  "name": "simple-number-suffix",
+  "version": "1.0.0",
+  "description": "module that adds a suffix by rounding down the number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-moon/simple-number-suffix.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Evan Moon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evan-moon/simple-number-suffix/issues"
+  },
+  "homepage": "https://github.com/evan-moon/simple-number-suffix#readme"
+}
